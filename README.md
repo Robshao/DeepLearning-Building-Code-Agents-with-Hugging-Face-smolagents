@@ -1,4 +1,4 @@
-Building Code Agents with Hugging Face smolagents
+Lesson 1: Building Code Agents with Hugging Face smolagents
 
 🧠 什麼是 AI 代理人（AI Agent）？
 
